@@ -1,0 +1,35 @@
+[
+  {
+    "anchor": "before 'Hatırlayalım'",
+    "slide": {
+      "title": "Kitaplığı sıralayalım",
+      "lead": "Kitaplıktaki kitap adlarını alfabetik sıraya dizelim: Arı, Balık, Ceylan, Çiçek, Dede. İlk harflerine bakarız: A, B, C, Ç, D.",
+      "read": "Kitaplıktaki kitap adlarını alfabetik sıraya dizelim: Arı, Balık, Ceylan, Çiçek, Dede. İlk harflerine bakarız: A, B, C, Ç, D.",
+      "tryThis": "Beş kitabın adını sırayla söyle: Arı, Balık, Ceylan, Çiçek, Dede.",
+      "keyPoint": "Kitap adları da alfabetik sıraya konur.",
+      "narration": "Kitaplıktaki kitap adlarını alfabetik sıraya dizelim: Arı, Balık, Ceylan, Çiçek, Dede. İlk harflerine bakarız: A, B, C, Ç, D. Kitap adları da alfabetik sıraya konur."
+    }
+  },
+  {
+    "anchor": "before 'Hatırlayalım'",
+    "slide": {
+      "title": "Sınıf listesi",
+      "lead": "Sınıf listesinde öğrenci adlarını alfabetik sırayla yazarız: Ayşe, Burak, Deniz, Elif, Mert.",
+      "read": "Sınıf listesinde öğrenci adlarını alfabetik sırayla yazarız: Ayşe, Burak, Deniz, Elif, Mert.",
+      "tryThis": "Sınıf listendeki ilk beş adı alfabetik sırayla söyle.",
+      "keyPoint": "Sınıf listesi alfabetik sıraya göre yazılır.",
+      "narration": "Sınıf listesinde öğrenci adlarını alfabetik sırayla yazarız: Ayşe, Burak, Deniz, Elif, Mert. Sınıf listesi alfabetik sıraya göre yazılır."
+    }
+  },
+  {
+    "anchor": "before 'Hatırlayalım'",
+    "slide": {
+      "title": "Yanlışı bulalım",
+      "lead": "Şu sıraya bak: kalem, kapı, kuzu, kedi. Hangisi yanlış yerde? Doğru sıra: kalem, kapı, kedi, kuzu.",
+      "read": "Şu sıraya bak: kalem, kapı, kuzu, kedi. Hangisi yanlış yerde? Doğru sıra: kalem, kapı, kedi, kuzu.",
+      "tryThis": "kedi neden kuzu’dan önce gelmeli? İkinci harfe bak: e ve u.",
+      "keyPoint": "Yanlış yerdeki kelimeyi bulmak için harf harf karşılaştırırız.",
+      "narration": "Şu sıraya bak: kalem, kapı, kuzu, kedi. Hangisi yanlış yerde? Doğru sıra: kalem, kapı, kedi, kuzu. Yanlış yerdeki kelimeyi bulmak için harf harf karşılaştırırız."
+    }
+  }
+]

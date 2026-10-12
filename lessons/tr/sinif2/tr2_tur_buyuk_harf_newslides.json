@@ -1,0 +1,14 @@
+[
+  {
+    "anchor": "before 'Hatırlayalım'",
+    "slide": {
+      "title": "Büyük harf avı",
+      "lead": "Hangi kelimeler büyük harfle başlar? Ankara, kedi, Elif, deniz, Van Gölü, kalem -> büyük: Ankara, Elif, Van Gölü.",
+      "read": "Hangi kelimeler büyük harfle başlar? Ankara, kedi, Elif, deniz, Van Gölü, kalem. Büyük olanlar: Ankara, Elif, Van Gölü.",
+      "tryThis": "Kartlardan büyük harfle başlayanları bul.",
+      "keyPoint": "Özel adlar büyük harfle başlar.",
+      "narration": "Hangi kelimeler büyük harfle başlar? Ankara, kedi, Elif, deniz, Van Gölü, kalem. Büyük olanlar: Ankara, Elif, Van Gölü. Özel adlar büyük harfle başlar.",
+      "image": "assets/images/lessons/tr/sinif2/tr2_tur_buyuk_harf_s11.webp"
+    }
+  }
+]
